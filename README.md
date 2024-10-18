@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a keen intere
 Feel free to explore my repositories to see my data science projects and contributions. Let's connect and collaborate on exciting data-driven initiatives!
 
 # Get in Touch
-- 📫 You can reach out to me via email at nehachaudhary8494@gmail.com
+- 📫 You can reach out to me via email at neha.chaudhary5533@gmail.com
 
 Looking forward to discussing data, statistics, and everything in between with you! 😊
 
